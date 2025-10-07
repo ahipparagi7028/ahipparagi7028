@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**ahipparagi7028/ahipparagi7028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Avinash Hipparagi**, a Data Analytics and Decision Science student at **RWTH Aachen University**, with a strong foundation in finance (**CFA Level I cleared**) and data-driven modeling.
 
-Here are some ideas to get you started:
+I enjoy applying **Machine Learning**, **Stochastic Calculus**, and analytical reasoning to understand uncertainty — whether through **Monte Carlo simulations** for option pricing or **NLP-based models** for sentiment analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m learning more about **Generative AI** and **Retrieval-Augmented Generation (RAG)** systems, while exploring how mathematical modeling can enhance intelligent decision-making.
+
+Outside of academics, I love cooking (especially Aglio e Olio 🍝), hiking, and movie nights with friends.
+
+#### Let's connect!
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@ahipparagi7028)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/avinashhipparagi1999)
