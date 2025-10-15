@@ -10,4 +10,4 @@ Outside of academics, I love cooking (especially Aglio e Olio 🍝), hiking, and
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@ahipparagi7028)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/avinashhipparagi1999)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/avinashhipparagi1323)
